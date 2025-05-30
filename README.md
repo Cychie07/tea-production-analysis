@@ -25,9 +25,9 @@ Data was collected hourly over a 14-hour shift during enzymatic oxidation monito
 
 ![Oxidation Quality Interpretation](oxidation_quality_interpretation.png)
 
-Semakin lama oksidasi enzimatis, warna seduhan teh lebih dull dan rasa cenderung pungenvy.  
-Jika oksidasi terlalu singkat, warna masih light, rasa briskness, dan ampas greenish.  
-Hal ini mendukung teori konversi polifenol menjadi theaflavin dan thearubigin (Hamida et al., 2022).
+The longer the enzymatic oxidation, the duller the color of the tea infusion and the more pungent the taste.  
+If the oxidation is too short, the color is still light, the taste is brisk, and the sediment is greenish.  
+This supports the theory of the conversion of polyphenols into theaflavins and thearubigins (Hamida et al., 2022).
 
 
 ## Files
