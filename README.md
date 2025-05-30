@@ -21,7 +21,7 @@ Data was collected hourly over a 14-hour shift during enzymatic oxidation monito
 - Microsoft Excel
 - (Optional) Python: pandas, matplotlib
 
-## 🔍 Interpretasi Kualitas Teh Berdasarkan Durasi Oksidasi
+## Interpretasi Kualitas Teh Berdasarkan Durasi Oksidasi
 
 ![Oxidation Quality Interpretation](oxidation_quality_interpretation.png)
 
@@ -30,8 +30,10 @@ Jika oksidasi terlalu singkat, warna masih light, rasa briskness, dan ampas gree
 Hal ini mendukung teori konversi polifenol menjadi theaflavin dan thearubigin (Hamida et al., 2022).
 
 
-## 📁 Files
+## Files
 - `tea_production_simulated.xlsx`: main data file used in analysis
+- [![Oxidation Quality Interpretation](oxidation_quality_interpretation.png)]
+- 
 
-## 🙋‍♀️ Author
+## Author
 Cychie Lestary – Bioprocess Engineering student at Universitas Brawijaya  
