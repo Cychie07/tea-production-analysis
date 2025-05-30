@@ -33,7 +33,7 @@ Hal ini mendukung teori konversi polifenol menjadi theaflavin dan thearubigin (H
 ## Files
 - `tea_production_simulated.xlsx`: main data file used in analysis
 - [![Oxidation Quality Interpretation](oxidation_quality_interpretation.png)]
-- 
+- `tea_oxidation_analysis.ipynb`
 
 ## Author
 Cychie Lestary – Bioprocess Engineering student at Universitas Brawijaya  
